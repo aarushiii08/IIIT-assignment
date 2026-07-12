@@ -9,6 +9,7 @@ The problems cover fundamental to advanced concepts and are organized for easy l
 - Loops
 - Functions
 - strings
+- numpy
 
 ## Purpose
 - Improve problem-solving skills
