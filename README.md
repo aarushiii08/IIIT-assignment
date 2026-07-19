@@ -10,6 +10,7 @@ The problems cover fundamental to advanced concepts and are organized for easy l
 - Functions
 - strings
 - numpy
+- assignments 
 
 ## Purpose
 - Improve problem-solving skills
