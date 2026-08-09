@@ -12,6 +12,7 @@ The problems cover fundamental to advanced concepts and are organized for easy l
 - numpy
 - assignments
 - opencv
+- ML model training
 
 ## Purpose
 - Improve problem-solving skills
