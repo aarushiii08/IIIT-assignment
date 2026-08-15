@@ -13,6 +13,7 @@ The problems cover fundamental to advanced concepts and are organized for easy l
 - assignments
 - opencv
 - ML model training
+- LSTM
 
 ## Purpose
 - Improve problem-solving skills
