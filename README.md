@@ -14,6 +14,7 @@ The problems cover fundamental to advanced concepts and are organized for easy l
 - opencv
 - ML model training
 - LSTM
+- CNN
 
 ## Purpose
 - Improve problem-solving skills
