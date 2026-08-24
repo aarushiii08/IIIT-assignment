@@ -1,0 +1,1 @@
+#Define a class called student. Display the marks details of top five students using inheritance.
